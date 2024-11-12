@@ -1,0 +1,5 @@
+mkdir portfolio
+cd portfolio
+mkdir includes images
+touch index.php about.php projects.php contact.php style.css
+touch includes/header.php includes/footer.php
